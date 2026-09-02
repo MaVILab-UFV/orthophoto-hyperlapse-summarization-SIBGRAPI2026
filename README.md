@@ -68,7 +68,7 @@ In this integration, the audio-based orientation signal from the original 2024 f
 
 | **Gabriel Moreira** | **Luísa Ferreira** | **Bruno Sette** | **Thiago Gomes** | **Michel Silva** |
 | --- | --- | --- | --- | --- |
-| MSc. Student¹ | Researcher² | MSc. Student¹ | MSc. Student¹ | Assistant Professor¹ |
+| BSc. Student¹ | MSc. Student¹ | BSc. Student¹ | Assistant Professor¹ | Assistant Professor¹ |
 | [gabriel.m.marques@ufv.br](mailto:gabriel.m.marques@ufv.br) | [s26ldeso@uni-bonn.de](mailto:s26ldeso@uni-bonn.de) | [bruno.sette@ufv.br](mailto:bruno.sette@ufv.br) | [thiago.luange@ufv.br](mailto:thiago.luange@ufv.br) | [michel.m.silva@ufv.br](mailto:michel.m.silva@ufv.br) |
 
 ¹Departamento de Informática, Universidade Federal de Viçosa (UFV), Viçosa-MG, Brazil  
