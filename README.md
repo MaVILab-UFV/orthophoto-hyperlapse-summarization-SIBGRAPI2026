@@ -4,7 +4,7 @@ This repository contains the implementation of our paper **Orthophoto-Driven Sem
 
 We present an open-source framework for aerial vehicle-based monitoring in rural areas, addressing two complementary tasks: semantic hyperlapse and video summarization. Our pipeline maps spatial information from semantic orthophotos back to the temporal video sequence, generating a coherent semantic profile that guides frame selection and temporal speed variations.
 
-![Overview of the proposed method and results](resources/abstract.pdf)
+![Overview of the proposed method and results](resources/abstract.png)
 
 If you find this code useful for your research, please cite the paper:
 
@@ -77,6 +77,7 @@ In this integration, the audio-based orientation signal from the original 2024 f
 ## Laboratory
 
 ![Logos](resources/Logomarcas.png)
+
 **MaVILab:** Machine Vision and Intelligence Laboratory  
 [https://mavilab-ufv.github.io/](https://mavilab-ufv.github.io/)
 
